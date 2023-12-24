@@ -55,7 +55,6 @@ list_of_nums=eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
 ```
-
 ## Output:
 ![image](https://github.com/Thilak45/Sorting-Algorithm/assets/138849161/901d8c24-02cf-4687-890b-155cd2124074)
 ![image](https://github.com/Thilak45/Sorting-Algorithm/assets/138849161/6d299695-a404-41cf-9a87-e7d64a2e3c66)
